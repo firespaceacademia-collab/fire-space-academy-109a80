@@ -1,0 +1,24 @@
+{
+  "_LEEME": [
+    "Figuras que aparecen en el 'Muro de Destacados'.",
+    "Para añadir otra, copia un bloque { ... }, pégalo en la lista separado por coma y edita los textos.",
+    "imagen: igual que en estudiantes.json ('/img/estudiantes/foto.jpg' o un enlace). Vacío \"\" = emblema.",
+    "Los estudiantes con \"destacado\": true en estudiantes.json también aparecen automáticamente."
+  ],
+  "figuras": [
+    {
+      "nombre": "Kim Taehyung",
+      "titulo": "Director de Fire Space",
+      "cita": "Por encima de todo se encuentra Taehyung, aquella persona responsable de mantener el orden.",
+      "descripcion": "El hombre que aparece en fotografías junto a estudiantes premiados, el rostro que las familias asocian con el éxito de la academia. Conoce los rangos, las rivalidades, las desapariciones, las habitaciones restringidas y el precio que se paga para mantener todo en silencio.",
+      "imagen": ""
+    },
+    {
+      "nombre": "Sangwon",
+      "titulo": "Ojos de Fire Space",
+      "cita": "Cual águila y búho, observando TODO lo que hacen los demás.",
+      "descripcion": "Uno de aquellos que vigilan cada movimiento dentro de la academia para reportarlo en cualquier momento.",
+      "imagen": ""
+    }
+  ]
+}
