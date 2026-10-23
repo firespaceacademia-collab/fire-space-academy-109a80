@@ -72,7 +72,6 @@
       "codigo": "",
       "destacado": false
     },
-
     {
     "id": "evan",
     "nombre": "Evan",
@@ -80,7 +79,7 @@
     "edadOff": "",
     "inteligencia": "Deportiva",
     "rango": "Destacado",
-    "puntos": 0,
+    "puntos": 390,
     "estado": "aceptada",
     "descripcion": "Descripción corta que aparece en la tarjeta.",
     "loreCompleto": "",
