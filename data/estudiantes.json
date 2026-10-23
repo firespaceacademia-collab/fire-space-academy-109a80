@@ -71,6 +71,23 @@
       "imagen": "",
       "codigo": "",
       "destacado": false
-    }
+    },
+    {
+    "id": "evan",
+    "nombre": "Evan",
+    "edadOn": "19 años",
+    "edadOff": "",
+    "inteligencia": "Deportiva",
+    "rango": "Destacado",
+    "puntos": 0,
+    "estado": "aceptada",
+    "descripcion": "Descripción corta que aparece en la tarjeta.",
+    "loreCompleto": "",
+    "documento": "",
+    "imagen": "",
+    "codigo": "",
+    "destacado": false
+  }
+
   ]
 }
